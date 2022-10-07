@@ -1,1 +1,1 @@
-# Ex7
+# Ex7 DatabasJPA
